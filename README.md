@@ -4,7 +4,7 @@ Sistem monitoring suhu dan kelembaban menggunakan ESP32, sensor DHT22, dan platf
 
 ## 📷 Demo
 
-<!-- Tambahkan foto/video rangkaian kamu di sini -->
+<img width="876" height="615" alt="Screenshot 2026-05-16 113349" src="https://github.com/user-attachments/assets/95df3ae1-7ef6-4d33-98b1-4ca20a6a4313" />
 
 ## 🛠️ Hardware yang Digunakan
 
